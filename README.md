@@ -1,5 +1,5 @@
 # Classifying Iris Dataset Using SVM
-I used three types of SVM to make predictions on the Iris dataset :
+This project used three types of support vector machine (SVM) to make predictions on the Iris dataset :
 1. Linear SVM
 2. RBF kernel SVM
 3. Polynomial kernel SVM
